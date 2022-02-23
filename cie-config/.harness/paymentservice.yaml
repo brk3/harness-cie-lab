@@ -161,5 +161,5 @@ pipeline:
           value: <+input>
         - name: ffsdkkeyprod
           type: String
-          default: bankvalidation
+          default: be6eaf07-2d27-4abc-956c-e6bf8a89444a
           value: <+input>
